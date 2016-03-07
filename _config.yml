@@ -1,0 +1,28 @@
+name: PETES TEST SITE
+favicon: null
+layout_spectrum: 0.4277929088566452
+typography_spectrum: 0.049977018032222986
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.2674095348920673
+  lightness: 0.12313823727890849
+  saturation: 0.9042221226263791
+  rhythmicContrast: 0.8570019158069044
+purpose: []
