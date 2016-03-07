@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PETES TEST SITE]]></title>
+        <description><![CDATA[PETES TEST SITE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 00:16:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The quick brown dog jumped over the lazy fox... wait... he did? No I don't think he did at all, I think the fox outfoxed that brown dog and was the one doing all the jumping! </p>]]></description>
+            <link>undefined44ac50b2-6b83-46d0-bd7c-0df7d6f5f2ef/index.html</link>
+            <guid isPermaLink="false">44ac50b2-6b83-46d0-bd7c-0df7d6f5f2ef</guid>
+            <pubDate>Mon, 07 Mar 2016 00:16:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
